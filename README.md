@@ -89,3 +89,19 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 15. [Custom Directories](https://drive.google.com/file/d/1sRaEqG0yo6T4PL4yluknVDX4KtNtnRBJ/view)
 
     > In this exercise you will create a new OU and configure it to use a custom directory.
+
+16. [Add a new super administrator](https://drive.google.com/file/d/1TQjXcXawv5v87BPnfqs5_CT7YSPLltHC/view)
+
+    > In this exercise, you'll grant the 'Super Admin' role to Alex Bell, the IT Manager. This is an example of a pre-built administrator role that's standard on all Google Workspace accounts.
+
+17. [Create and assign a custom role](https://drive.google.com/file/d/1W0C9m9I7ZNdGrxlNNHO4_Y3cvc2pChTz/view)
+
+    > In this exercise, you will create an admin role that has a custom set of privileges.
+
+18. [Enabling a service using groups](https://drive.google.com/file/d/1mbShVVy83ifpxd-Pl_gGhWKJsK5QQ_Xw/view)
+
+    > In this exercise you will learn how to enable a service for specific users by leveraging a Google Group.
+
+19. [Set services release track](https://drive.google.com/file/d/1fqjnJuF6us55zW2iYdvPzjtZ3FhRoS96/view)
+
+    > In this exercise you will learn how to enable a service for specific users by leveraging a Google Group.
