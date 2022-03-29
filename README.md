@@ -63,8 +63,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 9. [Adding Calendar resources](https://drive.google.com/file/d/1A2OESiqW-CSpA37304Vix15NwsI2dnoA/view)
 
-    > In this exercise you will create two structured calendar resources for your main building. You will
-also define some features that can be applied to each resource.
+    > In this exercise you will create two structured calendar resources for your main building. You will also define some features that can be applied to each resource.
 
 10. [Set Calendar sharing settings](https://drive.google.com/file/d/1s9AuRcRlJPIB2rPFZd3bkAHsmvTFOrGq/view)
 
@@ -73,3 +72,20 @@ also define some features that can be applied to each resource.
 11. [Configure access to Calendar resources](https://drive.google.com/file/d/1WEfJ4R1JLREB7caV8ko80rBUft3ko4rj/view)
 
     > In the previous course you created two calendar resources: Conference room, and Boardroom. This exercise will guide you through setting access to both of these resources.
+
+12. [Create organizational units](https://drive.google.com/file/d/187PwCXTqv0mOGWHgFq0drPDlRaP-muHz/view)
+
+    > In this exercise, you will create two OUs and move your users into the appropriate OU based upon their role in the company.
+
+
+13. [Verify Directory settings](https://drive.google.com/file/d/1TnqbwHtm1fqYSSooDY0tHza5d1YUrW8S/view)
+
+    > In this exercise, you will confirm that contact sharing is enabled for your organization.
+
+14. [Update user profiles](https://drive.google.com/file/d/1Lx7c-Xmzl1h4huxfe2xt5UlXmKzY8Pzb/view)
+
+    > In this exercise you will update a user's profile in the admin console. You will then update your directory settings to allow users to update their own profiles.
+
+15. [Custom Directories](https://drive.google.com/file/d/1sRaEqG0yo6T4PL4yluknVDX4KtNtnRBJ/view)
+
+    > In this exercise you will create a new OU and configure it to use a custom directory.
