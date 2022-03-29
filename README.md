@@ -3,7 +3,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ---
 ## Hands-on Labs
-### 1. Labs
+### A. Labs
 1. [Google Workspace Admin: Getting Started](https://www.cloudskillsboost.google/focuses/16418?parent=catalog)
 
     > Learn basic Google Workspace administration tasks - personalize your Admin Console, update the company profile, load users in single or batch mode.
@@ -28,8 +28,13 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Learn how to add recovery information to your Workspace admin account and reset your admin password.
 
-### 2. Step-by-Step Tutorials
-- [Compute Engine: Tutorials](https://cloud.google.com/compute/docs/tutorials)
+### B. Exercise
+1. [Create your Google Workspace trial account](https://drive.google.com/file/d/1zqc9-kNiLZ5tmMX9sF1Sj-BfupGEkqIh/view)
 
-    > Kumpulan panduan lab yang dikerjakan diakun Google Cloud kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun sendiri. Perhatikan langkah terakhir **clean up** yang menjelaskan apa yang harus diremove diakun kita.
+    > In this exercise, you'll purchase a new domain name through Google and register that domain for a 14-day trial of Google Workspace.
+
+2. [Log in to the Google Workspace Admin console](https://drive.google.com/file/d/1a16lJcJ07we73JlROTDgfWdnWwkLuVTC/view)
+
+    > In this exercise, you'll purchase a new domain name through Google and register that domain for a 14-day trial of Google Workspace.
+
 
