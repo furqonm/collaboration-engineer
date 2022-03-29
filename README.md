@@ -57,7 +57,19 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > In this exercise, you'll delete Google Workspace account for user who might leaves your organization.
 
-8. [Restore a recently deleted user](https://drive.google.com/file/d/1lSpHr89eENAwrCzUauGtWnTYT9V1yYkZ/view)
+8. [Restore a recently deleted user](https://drive.google.com/file/d/1eJsji4WRORotyAkYMfQoun2POxPBBeXs/view)
 
-    > In this exercise, you'll delete Google Workspace account for user who might leaves your organization.
+    > In this exercise, you'll restore deleted Google Workspace account.
 
+9. [Adding Calendar resources](https://drive.google.com/file/d/1A2OESiqW-CSpA37304Vix15NwsI2dnoA/view)
+
+    > In this exercise you will create two structured calendar resources for your main building. You will
+also define some features that can be applied to each resource.
+
+10. [Set Calendar sharing settings](https://drive.google.com/file/d/1s9AuRcRlJPIB2rPFZd3bkAHsmvTFOrGq/view)
+
+    > In this exercise you will review the sharing settings for the Calendar service.
+
+11. [Configure access to Calendar resources](https://drive.google.com/file/d/1WEfJ4R1JLREB7caV8ko80rBUft3ko4rj/view)
+
+    > In the previous course you created two calendar resources: Conference room, and Boardroom. This exercise will guide you through setting access to both of these resources.
