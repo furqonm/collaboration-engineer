@@ -12,21 +12,22 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > In this lab, you will learn how to provision groups and calendar resources in Google Workspace.
 
-3. [Google Workspace Admin: Managing Applications](https://www.cloudskillsboost.google/focuses/18332?parent=catalog)
+3. [Google Workspace Admin: Super Admin Account Recovery](https://www.cloudskillsboost.google/focuses/20114?parent=catalog)
 
-    > In this lab, you will learn how to create an organizational unit structure and configure applications based on organizational units (OUs).
+    > Learn how to add recovery information to your Workspace admin account and reset your admin password.
 
-4. [Google Workspace Admin: Managing Google Meet](https://www.cloudskillsboost.google/focuses/18361?parent=catalog)
-
-    > In this lab, you will learn how to create a meeting and live stream, how to configure different features in Google Meet, as well as how to configure access to Google Meet.
-
-5. [Google Workspace Admin: Securing](https://www.cloudskillsboost.google/focuses/18333?parent=catalog)
+4. [Google Workspace Admin: Securing](https://www.cloudskillsboost.google/focuses/18333?parent=catalog)
 
     > In this lab, you will explore just a few of the security policies and features that are available to you in Google Workspace.
 
-6. [Google Workspace Admin: Super Admin Account Recovery](https://www.cloudskillsboost.google/focuses/20114?parent=catalog)
+5. [Google Workspace Admin: Managing Applications](https://www.cloudskillsboost.google/focuses/18332?parent=catalog)
 
-    > Learn how to add recovery information to your Workspace admin account and reset your admin password.
+    > In this lab, you will learn how to create an organizational unit structure and configure applications based on organizational units (OUs).
+
+6. [Google Workspace Admin: Managing Google Meet](https://www.cloudskillsboost.google/focuses/18361?parent=catalog)
+
+    > In this lab, you will learn how to create a meeting and live stream, how to configure different features in Google Meet, as well as how to configure access to Google Meet.
+
 
 ### B. Exercise
 1. [Create your Google Workspace trial account](https://drive.google.com/file/d/1zqc9-kNiLZ5tmMX9sF1Sj-BfupGEkqIh/view)
