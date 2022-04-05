@@ -106,3 +106,16 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 19. [Set services release track](https://drive.google.com/file/d/1fqjnJuF6us55zW2iYdvPzjtZ3FhRoS96/view)
 
     > In this exercise you will learn how to enable a service for specific users by leveraging a Google Group.
+
+20. [Configure common user settings](https://drive.google.com/file/d/13cYI8JIU2P4NbkE67N3eZTULDm2uI7CO/view)
+
+    > In this exercise you will check and configure some of the more common user settings for your organization. You will also modify settings for a single OU as per company policy.
+
+21. [Enable Google Workspace Sync for executives](https://drive.google.com/file/d/18QlU6i7qdCXmucP8U657CCNRrISScmn8/view)
+
+    > In this exercise you will check and configure some of the more common user settings for your organization. You will also modify settings for a single OU as per company policy.
+
+22. [Configure compliance policies](https://drive.google.com/file/d/1TTSU0r7reiE2y8L7oE46xXNLVhyvgH6R/view)
+
+    > In this exercise you will set a couple of compliance policies for your organization.
+
