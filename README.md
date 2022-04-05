@@ -101,21 +101,49 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 18. [Enabling a service using groups](https://drive.google.com/file/d/1mbShVVy83ifpxd-Pl_gGhWKJsK5QQ_Xw/view)
 
-    > In this exercise you will learn how to enable a service for specific users by leveraging a Google Group.
+    > In this exercise, you will learn how to enable a service for specific users by leveraging a Google Group.
 
 19. [Set services release track](https://drive.google.com/file/d/1fqjnJuF6us55zW2iYdvPzjtZ3FhRoS96/view)
 
-    > In this exercise you will learn how to enable a service for specific users by leveraging a Google Group.
+    > In this exercise, you will learn how to enable a service for specific users by leveraging a Google Group.
 
 20. [Configure common user settings](https://drive.google.com/file/d/13cYI8JIU2P4NbkE67N3eZTULDm2uI7CO/view)
 
-    > In this exercise you will check and configure some of the more common user settings for your organization. You will also modify settings for a single OU as per company policy.
+    > In this exercise, you will check and configure some of the more common user settings for your organization. You will also modify settings for a single OU as per company policy.
 
 21. [Enable Google Workspace Sync for executives](https://drive.google.com/file/d/18QlU6i7qdCXmucP8U657CCNRrISScmn8/view)
 
-    > In this exercise you will check and configure some of the more common user settings for your organization. You will also modify settings for a single OU as per company policy.
+    > In this exercise, you will check and configure some of the more common user settings for your organization. You will also modify settings for a single OU as per company policy.
 
 22. [Configure compliance policies](https://drive.google.com/file/d/1TTSU0r7reiE2y8L7oE46xXNLVhyvgH6R/view)
 
-    > In this exercise you will set a couple of compliance policies for your organization.
+    > In this exercise, you will set a couple of compliance policies for your organization.
 
+
+23. [Drive sharing settings](https://drive.google.com/file/d/18ILNV0ttttay-gRBF101l5iGUzJkW8_F/view)
+
+    > In this exercise, you make users able to share their documents.
+
+24. [Transfer ownership](https://drive.google.com/file/d/1u9OtdhnwLunHjWxiRsic9nGZoS7L8HHf/view)
+
+    > In this exercise, you will transfer ownership of documents to another user.
+
+25. [Restore deleted files](https://drive.google.com/file/d/1_NOeARtgeaXB0MgrUfNRgU18Q1KwpMrV/view)
+
+    > In this exercise, you will log in as a Google Workspace user, create a file and then delete it. You will then restore that file as the administrator.
+
+26. [Enable Docs Offline access](https://drive.google.com/file/d/1NeCPGkv47-UnEPpT53NGR0UvcD6ZaQIY/view)
+
+    > In this exercise, you will enable Docs Offline access.
+
+27. [Stream or sync files](https://drive.google.com/file/d/1BmA351TaohAWuGXhfK1-kqgPAA3n7BOv/view)
+
+    > In this exercise, you will enable the use of Google Drive for desktop and allow users to install the software themselves.
+
+28. [Shared drive creation](https://drive.google.com/file/d/1r21rf6--jsxgeAEExZ4_jHi5u9chHXts/view)
+
+    > In this exercise, you check that shared drive creation is enabled for your organization and you will modify settings to ensure data remains confidential only to members of each drive.
+
+29. [Explore shared drive management](https://drive.google.com/file/d/1TYJfiTNIUzTw0ydwC8RFEk3MHqOlcE3s/view)
+
+    > In this exercise, you will explore the management features offered to you in the admin console.
