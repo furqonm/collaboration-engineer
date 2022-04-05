@@ -147,3 +147,15 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 29. [Explore shared drive management](https://drive.google.com/file/d/1TYJfiTNIUzTw0ydwC8RFEk3MHqOlcE3s/view)
 
     > In this exercise, you will explore the management features offered to you in the admin console.
+
+30. [Admin SDK API access](https://drive.google.com/file/d/15hqvhCUrtCOjJW5p4naCP-e7XXYm_YuV/view)
+
+    > In this exercise, you will disable Admin SDK API access.
+
+31. [Manage connected apps](https://drive.google.com/file/d/1f5NrBI7GCFlHAe_RvsNQcn67IV6Bdcyl/view)
+
+    > In this exercise you will block Calendar API access to all applications except for a single application that you trust, plus any applications developed by your organization.
+
+32. [User activity reports](https://drive.google.com/file/d/1_-90DWvXpSnUNg_TyV4Pwi08dExVVxEs/view)
+
+    > In this exercise, you'll view and customize an accounts activity report for your organization.
