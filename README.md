@@ -20,13 +20,13 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > In this lab, you will explore just a few of the security policies and features that are available to you in Google Workspace.
 
-5. [Google Workspace Admin: Managing Applications](https://www.cloudskillsboost.google/focuses/18332?parent=catalog)
-
-    > In this lab, you will learn how to create an organizational unit structure and configure applications based on organizational units (OUs).
-
-6. [Google Workspace Admin: Managing Google Meet](https://www.cloudskillsboost.google/focuses/18361?parent=catalog)
+5. [Google Workspace Admin: Managing Google Meet](https://www.cloudskillsboost.google/focuses/18361?parent=catalog)
 
     > In this lab, you will learn how to create a meeting and live stream, how to configure different features in Google Meet, as well as how to configure access to Google Meet.
+
+6. [Google Workspace Admin: Managing Applications](https://www.cloudskillsboost.google/focuses/18332?parent=catalog)
+
+    > In this lab, you will learn how to create an organizational unit structure and configure applications based on organizational units (OUs).
 
 
 ### B. Exercise
@@ -159,3 +159,15 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 32. [User activity reports](https://drive.google.com/file/d/1_-90DWvXpSnUNg_TyV4Pwi08dExVVxEs/view)
 
     > In this exercise, you'll view and customize an accounts activity report for your organization.
+
+33. [Configure mobile device policies](https://drive.google.com/file/d/1maDreZ3sUiLl6if3EgmGtWxepBtEy6wT/view)
+
+    > In this exercise, you will use Google Workspace Mobile Management to enforce the company's mobile policies for Android devices. You will disable iOS and Google Sync devices.
+
+34. [Enroll a mobile device](https://drive.google.com/file/d/1BbCDOzWTMbwac7uys739AFnNt6nm6khP/view)
+
+    > In this exercise, you will take to enroll mobile devices into your domain. This exercise is optional and is intended for Android devices only.
+
+35. [Handling a lost or non-compliant device](https://drive.google.com/file/d/14Ji0tiCxEmnw31hazGGGjQW04BaJggU_/view)
+
+    > This exercise just shows you where to go to manage a device that is believed to be lost or non-compliant and lists the actions that are available to you in the admin console.
