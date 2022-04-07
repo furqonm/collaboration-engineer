@@ -7,7 +7,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 - [Google Workspace Mail Management](https://www.cloudskillsboost.google/course_templates/91)
 
-    > Video material dari Google di Google Cloud Skills Boost. Silahkan dipelajari untuk memperdalam pengaturan di Gmail terkait proteksi spam, spoofing, phishing dan malware. Disini juga dibahas konfigurasi email compliance, DLP, mail routing, whitelist & block senders, dan lainnya.
+    > Video material dan langkah hands-on dari Google di Google Cloud Skills Boost. Silahkan dipelajari untuk memperdalam pengaturan di Gmail terkait proteksi spam, spoofing, phishing dan malware. Disini juga dibahas konfigurasi email compliance, DLP, mail routing, whitelist & block senders, dan lainnya.
 
 - [Google Workspace Admin Help](https://www.youtube.com/playlist?list=PLU8ezI8GYqs75-_nquHcR8F8qm7U6h4a6)
 
@@ -15,7 +15,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 - [Planning for your Google Workspace Deployment](https://www.cloudskillsboost.google/course_templates/93)
 
-    > Video material dari Google di Google Cloud Skills Boost. Silahkan dipelajari untuk perkenalan metodologi dan best practice deployment terkait Google Workspace.
+    > Dokumen material dari Google di Google Cloud Skills Boost. Silahkan dipelajari untuk perkenalan metodologi dan best practice deployment terkait Google Workspace.
 
 ### 2. Exam Guide
 - [Professional Collaboration Engineer: Certification Exam Guide](https://cloud.google.com/certification/guides/collaboration-engineer)
@@ -197,3 +197,5 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 35. [Handling a lost or non-compliant device](https://drive.google.com/file/d/14Ji0tiCxEmnw31hazGGGjQW04BaJggU_/view)
 
     > This exercise just shows you where to go to manage a device that is believed to be lost or non-compliant and lists the actions that are available to you in the admin console.
+
+
