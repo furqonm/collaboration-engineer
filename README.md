@@ -1,5 +1,31 @@
 # Preparation for GCP Professional Collaboration Engineer (PCE) Certification
-_[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan materi belajar. Sumber belajar yang saya dokumentasikan sendiri ini tidak merepresentasikan informasi resmi dari pihak Google Cloud, meskipun beberapa link dan material bersumber resmi dari Google Cloud._
+_[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan materi belajar. Sumber belajar yang saya dokumentasikan sendiri ini tidak merepresentasikan informasi resmi dari pihak Google, meskipun beberapa link dan material bersumber resmi dari Google._
+
+---
+## Exam Preparation Materials
+### 1. Course
+
+- [Google Workspace Mail Management](https://www.cloudskillsboost.google/course_templates/91)
+
+    > Video material dari Google di Google Cloud Skills Boost. Silahkan dipelajari untuk memperdalam pengaturan di Gmail terkait proteksi spam, spoofing, phishing dan malware. Disini juga dibahas konfigurasi email compliance, DLP, mail routing, whitelist & block senders, dan lainnya.
+
+- [Google Workspace Admin Help](https://www.youtube.com/playlist?list=PLU8ezI8GYqs75-_nquHcR8F8qm7U6h4a6)
+
+    > Video material dari channel Google Workspace. Silahkan dipelajari untuk memperdalam terkait dasar administrasi di Google Workspace.
+
+- [Planning for your Google Workspace Deployment](https://www.cloudskillsboost.google/course_templates/93)
+
+    > Video material dari Google di Google Cloud Skills Boost. Silahkan dipelajari untuk perkenalan metodologi dan best practice deployment terkait Google Workspace.
+
+### 2. Exam Guide
+- [Professional Collaboration Engineer: Certification Exam Guide](https://cloud.google.com/certification/guides/collaboration-engineer)
+
+    > Membahas 5 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
+
+### 3. Exam Readiness
+- [Professional Collaboration Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSfdLA0hTTzsKnw5Mt23yL-jH06xNzV_f-s32nEBc9ZKAIFYLA/viewform)
+
+    > Simulasi ujian via Google Forms untuk mengenali format pertanyaan ujian GCP PCE nanti.
 
 ---
 ## Hands-on Labs
