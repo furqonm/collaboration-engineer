@@ -198,4 +198,14 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > This exercise just shows you where to go to manage a device that is believed to be lost or non-compliant and lists the actions that are available to you in the admin console.
 
+36. [Create retention rules](https://drive.google.com/file/d/1auG-huva5032gtxsZQRdLWfpXZVG1rMm/view)
 
+    > In this exercise we will define a default and a custom retention rule for Gmail.
+
+37. [Create a matter and place users on hold](https://drive.google.com/file/d/1RdfsVPcK1AQo6l-GoXoyOUcPmjLRXDun/view)
+
+    > In this exercise you will create a matter and place two user accounts on hold.
+
+38. [Search and export](https://drive.google.com/file/d/1zsVIJAT6crjr4kTz7CzGXQCYIMtOdkzJ/view)
+
+    > In this exercise, you will look at the search options available in Vault and export results.
