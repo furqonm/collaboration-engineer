@@ -209,3 +209,23 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 38. [Search and export](https://drive.google.com/file/d/1zsVIJAT6crjr4kTz7CzGXQCYIMtOdkzJ/view)
 
     > In this exercise, you will look at the search options available in Vault and export results.
+
+39. [Monitor Google Workspace usage](https://drive.google.com/file/d/1uiCATYUreLwr50x_cOHLeW24keEicI3c/view)
+
+    > In this exercise you will examine your Google Workspace reports.
+
+40. [View audit logs](https://drive.google.com/file/d/1LwcwbRlN9RBxqjlRmvgDDt7DOPlmdP9M/view)
+
+    > In this exercise you will take a brief look at the audit logs available to you for your organization.
+
+41. [Create email alerts](https://drive.google.com/file/d/1dfDMDnMZi4PwQbKdCsHq6C_5o2z8CAdC/view)
+
+    > In this exercise, you'll examine Google Workspace's predefined alerts and see how to create custom email alerts for when something important happens in your organization.
+
+42. [Email log search](https://drive.google.com/file/d/1dzSRP4rzRi6XC_GiMQ-Qrs045Ox1oGoK/view)
+
+    > In this exercise you will explore the Gmail Log Search options available in the admin console.
+
+43. [Alert center](https://drive.google.com/file/d/1wEcoyQGu9GMM2m0ItvemGnS9y-yxJh0Z/view)
+
+    > in this exercise you will learn how to navigate to the alert center and locate and identify rules that add alerts to the center.
