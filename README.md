@@ -36,9 +36,9 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 2. [Log in to the Google Workspace Admin console](https://drive.google.com/file/d/1a16lJcJ07we73JlROTDgfWdnWwkLuVTC/view)
 
-    > In this exercise, you'll purchase a new domain name through Google and register that domain for a 14-day trial of Google Workspace.
+    > In this exercise, you'll login to Google Workspace account.
 
-3. [Add several users at once](https://drive.google.com/file/d/1VxcVAwOACPgJo7J27BPkAJoIHT0Ix6FZ/view)
+3. [Add several users at once](https://drive.google.com/file/d/1VxcVAwOACPgJo7J27BPkAJoIHT0Ix6FZ/view) -- Required
 
     > In this exercise, you'll see how to bulk upload multiple users at once. Here is [the link of .csv](https://drive.google.com/file/d/1Iq5f1jEod9djOvl9i1hCUSXkH2z7bFHH/view) for the bulk of user.
 
@@ -62,7 +62,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > In this exercise, you'll restore deleted Google Workspace account.
 
-9. [Adding Calendar resources](https://drive.google.com/file/d/1A2OESiqW-CSpA37304Vix15NwsI2dnoA/view)
+9. [Adding Calendar resources](https://drive.google.com/file/d/1A2OESiqW-CSpA37304Vix15NwsI2dnoA/view) -- Required
 
     > In this exercise you will create two structured calendar resources for your main building. You will also define some features that can be applied to each resource.
 
@@ -74,7 +74,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > In the previous course you created two calendar resources: Conference room, and Boardroom. This exercise will guide you through setting access to both of these resources.
 
-12. [Create organizational units](https://drive.google.com/file/d/187PwCXTqv0mOGWHgFq0drPDlRaP-muHz/view)
+12. [Create organizational units](https://drive.google.com/file/d/187PwCXTqv0mOGWHgFq0drPDlRaP-muHz/view) -- Required
 
     > In this exercise, you will create two OUs and move your users into the appropriate OU based upon their role in the company.
 
@@ -87,7 +87,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > In this exercise you will update a user's profile in the admin console. You will then update your directory settings to allow users to update their own profiles.
 
-15. [Custom Directories](https://drive.google.com/file/d/1sRaEqG0yo6T4PL4yluknVDX4KtNtnRBJ/view)
+15. [Custom Directories](https://drive.google.com/file/d/1sRaEqG0yo6T4PL4yluknVDX4KtNtnRBJ/view) -- Required
 
     > In this exercise you will create a new OU and configure it to use a custom directory.
 
