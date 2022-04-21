@@ -7,15 +7,19 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 - [Google Workspace Mail Management](https://www.cloudskillsboost.google/course_templates/91)
 
-    > Video material dan langkah hands-on dari Google di Google Cloud Skills Boost. Silahkan dipelajari untuk memperdalam pengaturan di Gmail terkait proteksi spam, spoofing, phishing dan malware. Disini juga dibahas konfigurasi email compliance, DLP, mail routing, whitelist & block senders, dan lainnya.
+    > Video material dan langkah hands-on dari Google Cloud Skills Boost untuk memperdalam pengaturan di Gmail terkait proteksi spam, spoofing, phishing dan malware. Disini juga dibahas konfigurasi email compliance, DLP, mail routing, whitelist & block senders, dan lainnya.
 
 - [Google Workspace Admin Help](https://www.youtube.com/playlist?list=PLU8ezI8GYqs75-_nquHcR8F8qm7U6h4a6)
 
-    > Video material dari channel Google Workspace. Silahkan dipelajari untuk memperdalam terkait dasar administrasi di Google Workspace.
+    > Video material dari channel Youtube, Google Workspace, untuk memperdalam terkait dasar administrasi di Google Workspace.
 
 - [Planning for your Google Workspace Deployment](https://www.cloudskillsboost.google/course_templates/93)
 
-    > Dokumen material dari Google di Google Cloud Skills Boost. Silahkan dipelajari untuk perkenalan metodologi dan best practice deployment terkait Google Workspace.
+    > Dokumen online dari Google Cloud Skills Boost untuk perkenalan metodologi dan best practice deployment terkait Google Workspace.
+
+- [Google Apps Technical Transition Guide: For Business, Education, and Government](https://static.googleusercontent.com/media/www.google.com/en//support/enterprise/static/gapps/docs/admin/en/gapps_transition/gapps_transition_guide.pdf)
+
+    > Dokumen pdf dari Google untuk pendalaman beberapa hal terkait migrasi yang dilakukan oleh perusahaan ke Google Workspace.
 
 ### 2. Exam Guide
 - [Professional Collaboration Engineer: Certification Exam Guide](https://cloud.google.com/certification/guides/collaboration-engineer)
